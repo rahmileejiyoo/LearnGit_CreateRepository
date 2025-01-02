@@ -421,5 +421,12 @@ $ git push origin main
 Everything up-to-date
 
 lia.rahmi@NBSS-D-0599 MINGW64 /d/Automate/Edugit (main)
-$
+$ git clone https://github.com/rahmileejiyoo/LearnGit_CreateRepository.git
+Cloning into 'LearnGit_CreateRepository'...
+remote: Enumerating objects: 9, done.
+remote: Counting objects: 100% (9/9), done.
+remote: Compressing objects: 100% (6/6), done.
+remote: Total 9 (delta 0), reused 6 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (9/9), done.
+
 
